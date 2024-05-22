@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Getsbetterlater
-- 👀 I’m interested in ... NFTs and digital prosperity
-- 🌱 I’m currently learning ... Solidity
-- 💞️ I’m looking to collaborate on ... simple projects
+- 👀 I’m interested in ... AI
+- 🌱 I’m currently learning ... Grok
+- 💞️ I’m looking to collaborate on ... a secret AI project
 - 📫 How to reach me ... here getsbetterlater@gmail.com
 
 <!---
